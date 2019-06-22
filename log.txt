@@ -1,0 +1,94 @@
+x-coordinate: 442
+y-coordinate: 189
+x-coordinate: 454
+y-coordinate: 170
+Slope: -1
+Number of Digits: 2
+x-coordinate: 431
+y-coordinate: 182
+x-coordinate: 442
+y-coordinate: 164
+Slope: -1
+Number of Digits: 3
+x-coordinate: 442
+y-coordinate: 189
+x-coordinate: 454
+y-coordinate: 170
+Slope: -1
+Number of Digits: 2
+x-coordinate: 431
+y-coordinate: 182
+x-coordinate: 442
+y-coordinate: 164
+Slope: -1
+Number of Digits: 3
+x-coordinate: 431
+y-coordinate: 182
+x-coordinate: 442
+y-coordinate: 164
+Slope: -1
+Number of Digits: 3
+x-coordinate: 449
+y-coordinate: 174
+x-coordinate: 461
+y-coordinate: 190
+Slope: 1
+Number of Digits: 2
+x-coordinate: 448
+y-coordinate: 185
+x-coordinate: 449
+y-coordinate: 174
+x-coordinate: 456
+y-coordinate: 173
+x-coordinate: 459
+y-coordinate: 165
+Slope: -1
+Number of Digits: 2
+x-coordinate: 436
+y-coordinate: 166
+x-coordinate: 441
+y-coordinate: 186
+Slope: 4
+Number of Digits: 3
+x-coordinate: 425
+y-coordinate: 170
+x-coordinate: 437
+y-coordinate: 186
+Slope: 1
+Number of Digits: 3
+x-coordinate: 425
+y-coordinate: 170
+x-coordinate: 437
+y-coordinate: 186
+Slope: 1
+Number of Digits: 3
+x-coordinate: 431
+y-coordinate: 182
+x-coordinate: 442
+y-coordinate: 164
+Slope: -1
+Number of Digits: 3
+x-coordinate: 413
+y-coordinate: 166
+x-coordinate: 417
+y-coordinate: 186
+Slope: 5
+Number of Digits: 4
+x-coordinate: 431
+y-coordinate: 182
+x-coordinate: 442
+y-coordinate: 164
+Slope: -1
+Number of Digits: 3
+x-coordinate: 431
+y-coordinate: 182
+x-coordinate: 442
+y-coordinate: 164
+Slope: -1
+Number of Digits: 3
+x-coordinate: 449
+y-coordinate: 174
+x-coordinate: 461
+y-coordinate: 190
+Slope: 1
+Number of Digits: 2
